@@ -1,0 +1,84 @@
+header{
+    background: #bbbbbb;
+}
+.caja{
+    width: 800px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+nav{
+    position: absolute;
+    top: 120px;
+    right: 0px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav a{
+    text-transform: uppercase;
+    color:#000000;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+
+}
+nav a:hover{
+    color: #4f96ad;
+    text-decoration:underline;
+}
+.servicios{
+    width: 900px;
+    margin: 0px auto;
+    padding: 60px;
+}
+.servicios li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.servicios li:hover{
+    border-color: #4f96ad;
+}
+.servicios li:active{
+    border-color: #008000;
+}
+
+.servicios h2{
+    font-size: 30px;
+   font-weight: bold;
+}
+.servicios li:hover h2{
+    font-size: 35px;
+}
+.servicio-descripcion{
+ font-size: 20px;
+}
+.servicio-precio{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+
+}
+footer{
+text-align: center;
+background:url(img2/bg.jpg);
+padding: 40px;
+
+}
+.piedepagina{
+    color: #ffffff;
+    font-size: 14px;
+    margin: 20px;
+}

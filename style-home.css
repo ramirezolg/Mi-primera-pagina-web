@@ -1,0 +1,66 @@
+
+body{
+    background:#000000;
+}
+
+.titulo_principal{
+    color: #ffffff;
+    padding-left: 30px;
+    font-size: 100px;
+}
+#barber {
+    width: 100%;
+  
+    
+}
+.contenido{
+    text-align: center;
+    background:#666666; 
+    padding: 20px;
+    color: #faebd7;
+    font-style: unset;
+    font-size: 25px;
+   
+}
+
+#titulo{
+
+    font-size: 40px;
+    text-align: center;
+    color:#c3c3e7;
+    height: 80px;
+    font-style: italic;
+
+  
+}
+
+.lista{
+    background: #000000;
+    padding: 25px;
+    margin-left: 20%;
+}
+.subtitulo{
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+.ejemplo{
+    font-style:oblique;
+    font-family:impact,fantasy;
+    font-size: 25px;
+    color: #ffffff;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    margin-right:5%;
+  
+}
+
+.personal{
+    width: 700px;
+    height: 500px;
+    
+
+}
